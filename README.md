@@ -1,6 +1,6 @@
 # Mini-curso
-##titulo
-
+## titulo
+### Joao Gabriel de Oliveira Ponciano 
 
 
 
